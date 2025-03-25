@@ -22,7 +22,7 @@ This is a Streamlit-based web app that uses a machine learning model to classify
 - `requirements.txt`: Dependencies for deployment
 
 ## 🚀 Try it out!
-Deployed on [Streamlit Cloud](https://streamlit.io/cloud)
+Deployed on [Streamlit Cloud](https://smsspamclassifier-vignesh.streamlit.app/)
 
 ---
 
